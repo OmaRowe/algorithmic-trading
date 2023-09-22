@@ -1,8 +1,8 @@
-Evolutionary!Computing
+Evolutionary#Computing
 ======================
 
 
- #Description: *
+##Description:  
 We have two strategies in predicting
 apple stock prices, one is through a 
 genetic program, the other is through a
@@ -22,4 +22,4 @@ in the respective README's in sub repositories.
 
 
 
-  
+   
